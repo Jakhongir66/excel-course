@@ -2,3 +2,4 @@ Webpack
 Git
 Sass
 ESLint
+SourceMap
